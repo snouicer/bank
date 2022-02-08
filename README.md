@@ -1,2 +1,2 @@
 # bank
-distributeur en langage C
+ATM Bank in C language
